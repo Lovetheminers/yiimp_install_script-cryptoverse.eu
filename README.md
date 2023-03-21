@@ -1,6 +1,6 @@
 # Yiimp_install_script cryptoverse.eu (update September, 2022)
 
-Site : https://pool.cryptoverse.eu
+Site : https://pool.cryptoverse.eu:_
 
 Discord : https://discord.gg/Rv7hhpzQb9
 
